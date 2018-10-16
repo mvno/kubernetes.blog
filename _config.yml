@@ -1,4 +1,4 @@
 title: The journey to Kubernetes
-description: A short, honest blog, about why and how we are moving our .net, on prem, non containerized to the cloud leveraging the power of https://kubernetes.io/.
+description: A short, honest blog, about why and how we are moving our on prem, non containerized, msa on windows solutions to the cloud leveraging the power of https://kubernetes.io/.
 show_downloads: true
 theme: jekyll-theme-cayman
