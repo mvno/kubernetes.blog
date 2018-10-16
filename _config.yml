@@ -1,1 +1,4 @@
+title: The journey to Kubernetes for CBB
+description: A short, honest blog, about why and how we are moving our .net, on prem hosted setup to the cloud leveraing the power of https://kubernetes.io/.
+show_downloads: true
 theme: jekyll-theme-cayman
